@@ -1,0 +1,42 @@
+c:\users\admin\documents\visual studio 2013\Projects\TVD MathPhyChe Software\TVD MathPhyChe Software\bin\Debug\TVD MathPhyChe Software.exe.config
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\TVD MathPhyChe Software\TVD MathPhyChe Software\bin\Debug\TVD MathPhyChe Software.exe
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\TVD MathPhyChe Software\TVD MathPhyChe Software\bin\Debug\TVD MathPhyChe Software.pdb
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\TVD MathPhyChe Software\TVD MathPhyChe Software\obj\Debug\TVD MathPhyChe Software.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\TVD MathPhyChe Software\TVD MathPhyChe Software\obj\Debug\MainWindow.baml
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\TVD MathPhyChe Software\TVD MathPhyChe Software\obj\Debug\MainWindow.g.cs
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\TVD MathPhyChe Software\TVD MathPhyChe Software\obj\Debug\App.g.cs
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\TVD MathPhyChe Software\TVD MathPhyChe Software\obj\Debug\TVD MathPhyChe Software_MarkupCompile.cache
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\TVD MathPhyChe Software\TVD MathPhyChe Software\obj\Debug\TVD MathPhyChe Software.g.resources
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\TVD MathPhyChe Software\TVD MathPhyChe Software\obj\Debug\TVD_MathPhyChe_Software.Properties.Resources.resources
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\TVD MathPhyChe Software\TVD MathPhyChe Software\obj\Debug\TVD MathPhyChe Software.csproj.GenerateResource.Cache
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\TVD MathPhyChe Software\TVD MathPhyChe Software\obj\Debug\TVD MathPhyChe Software.exe
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\TVD MathPhyChe Software\TVD MathPhyChe Software\obj\Debug\TVD MathPhyChe Software.pdb
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\TVD MathPhyChe Software\TVD MathPhyChe Software\obj\Debug\Toan.baml
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\TVD MathPhyChe Software\TVD MathPhyChe Software\obj\Debug\Toan.g.cs
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\TVD MathPhyChe Software\TVD MathPhyChe Software\obj\Debug\Hoahoc.baml
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\TVD MathPhyChe Software\TVD MathPhyChe Software\obj\Debug\VatLi.baml
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\TVD MathPhyChe Software\TVD MathPhyChe Software\obj\Debug\Hoahoc.g.cs
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\TVD MathPhyChe Software\TVD MathPhyChe Software\obj\Debug\VatLi.g.cs
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\TVD MathPhyChe Software\TVD MathPhyChe Software\obj\Debug\About.baml
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\TVD MathPhyChe Software\TVD MathPhyChe Software\obj\Debug\About.g.cs
+C:\Users\Admin\Desktop\MPC Project\TVD MathPhyChe Software\bin\Debug\TVD MathPhyChe Software.exe.config
+C:\Users\Admin\Desktop\MPC Project\TVD MathPhyChe Software\obj\Debug\TVD MathPhyChe Software.exe
+C:\Users\Admin\Desktop\MPC Project\TVD MathPhyChe Software\obj\Debug\TVD MathPhyChe Software.pdb
+C:\Users\Admin\Desktop\MPC Project\TVD MathPhyChe Software\bin\Debug\TVD MathPhyChe Software.exe
+C:\Users\Admin\Desktop\MPC Project\TVD MathPhyChe Software\bin\Debug\TVD MathPhyChe Software.pdb
+C:\Users\Admin\Desktop\MPC Project\TVD MathPhyChe Software\obj\Debug\TVD MathPhyChe Software.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\MPC Project\TVD MathPhyChe Software\obj\Debug\About.baml
+C:\Users\Admin\Desktop\MPC Project\TVD MathPhyChe Software\obj\Debug\Hoahoc.baml
+C:\Users\Admin\Desktop\MPC Project\TVD MathPhyChe Software\obj\Debug\MainWindow.baml
+C:\Users\Admin\Desktop\MPC Project\TVD MathPhyChe Software\obj\Debug\Toan.baml
+C:\Users\Admin\Desktop\MPC Project\TVD MathPhyChe Software\obj\Debug\VatLi.baml
+C:\Users\Admin\Desktop\MPC Project\TVD MathPhyChe Software\obj\Debug\About.g.cs
+C:\Users\Admin\Desktop\MPC Project\TVD MathPhyChe Software\obj\Debug\Hoahoc.g.cs
+C:\Users\Admin\Desktop\MPC Project\TVD MathPhyChe Software\obj\Debug\MainWindow.g.cs
+C:\Users\Admin\Desktop\MPC Project\TVD MathPhyChe Software\obj\Debug\Toan.g.cs
+C:\Users\Admin\Desktop\MPC Project\TVD MathPhyChe Software\obj\Debug\VatLi.g.cs
+C:\Users\Admin\Desktop\MPC Project\TVD MathPhyChe Software\obj\Debug\App.g.cs
+C:\Users\Admin\Desktop\MPC Project\TVD MathPhyChe Software\obj\Debug\TVD MathPhyChe Software_MarkupCompile.cache
+C:\Users\Admin\Desktop\MPC Project\TVD MathPhyChe Software\obj\Debug\TVD MathPhyChe Software.g.resources
+C:\Users\Admin\Desktop\MPC Project\TVD MathPhyChe Software\obj\Debug\TVD_MathPhyChe_Software.Properties.Resources.resources
+C:\Users\Admin\Desktop\MPC Project\TVD MathPhyChe Software\obj\Debug\TVD MathPhyChe Software.csproj.GenerateResource.Cache

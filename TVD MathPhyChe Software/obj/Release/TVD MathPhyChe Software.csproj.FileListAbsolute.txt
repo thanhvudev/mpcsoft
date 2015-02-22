@@ -1,0 +1,20 @@
+C:\Users\Admin\Desktop\MPC Project\TVD MathPhyChe Software\bin\Release\TVD MathPhyChe Software.exe.config
+C:\Users\Admin\Desktop\MPC Project\TVD MathPhyChe Software\bin\Release\TVD MathPhyChe Software.exe
+C:\Users\Admin\Desktop\MPC Project\TVD MathPhyChe Software\bin\Release\TVD MathPhyChe Software.pdb
+C:\Users\Admin\Desktop\MPC Project\TVD MathPhyChe Software\obj\Release\About.baml
+C:\Users\Admin\Desktop\MPC Project\TVD MathPhyChe Software\obj\Release\Hoahoc.baml
+C:\Users\Admin\Desktop\MPC Project\TVD MathPhyChe Software\obj\Release\MainWindow.baml
+C:\Users\Admin\Desktop\MPC Project\TVD MathPhyChe Software\obj\Release\Toan.baml
+C:\Users\Admin\Desktop\MPC Project\TVD MathPhyChe Software\obj\Release\VatLi.baml
+C:\Users\Admin\Desktop\MPC Project\TVD MathPhyChe Software\obj\Release\About.g.cs
+C:\Users\Admin\Desktop\MPC Project\TVD MathPhyChe Software\obj\Release\Hoahoc.g.cs
+C:\Users\Admin\Desktop\MPC Project\TVD MathPhyChe Software\obj\Release\MainWindow.g.cs
+C:\Users\Admin\Desktop\MPC Project\TVD MathPhyChe Software\obj\Release\Toan.g.cs
+C:\Users\Admin\Desktop\MPC Project\TVD MathPhyChe Software\obj\Release\VatLi.g.cs
+C:\Users\Admin\Desktop\MPC Project\TVD MathPhyChe Software\obj\Release\App.g.cs
+C:\Users\Admin\Desktop\MPC Project\TVD MathPhyChe Software\obj\Release\TVD MathPhyChe Software_MarkupCompile.cache
+C:\Users\Admin\Desktop\MPC Project\TVD MathPhyChe Software\obj\Release\TVD MathPhyChe Software.g.resources
+C:\Users\Admin\Desktop\MPC Project\TVD MathPhyChe Software\obj\Release\TVD_MathPhyChe_Software.Properties.Resources.resources
+C:\Users\Admin\Desktop\MPC Project\TVD MathPhyChe Software\obj\Release\TVD MathPhyChe Software.csproj.GenerateResource.Cache
+C:\Users\Admin\Desktop\MPC Project\TVD MathPhyChe Software\obj\Release\TVD MathPhyChe Software.exe
+C:\Users\Admin\Desktop\MPC Project\TVD MathPhyChe Software\obj\Release\TVD MathPhyChe Software.pdb

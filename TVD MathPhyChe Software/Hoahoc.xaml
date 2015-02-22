@@ -1,0 +1,19 @@
+﻿<Window x:Class="TVD_MathPhyChe_Software.Hoahoc"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MPC Hoá học" Height="512" Width="768" WindowStartupLocation="CenterScreen" ResizeMode="NoResize">
+    <Grid>
+        <Rectangle Fill="#FF429BF3" HorizontalAlignment="Left" Height="483" Stroke="#FF429BF3" VerticalAlignment="Top" Width="190" StrokeThickness="0"/>
+        <Button Content="Nguyên tố HH" HorizontalAlignment="Left" VerticalAlignment="Top" Width="190" Height="44" Background="#FF666666" BorderBrush="White" Foreground="White" FontFamily="Segoe UI Light" FontSize="22" BorderThickness="0,0,0.5,0" Margin="0,3,0,0" Click="Button_Click"/>
+        <Button Content="Hoá trị" HorizontalAlignment="Left" VerticalAlignment="Top" Width="190" Height="44" Background="#FF666666" BorderBrush="White" Foreground="White" FontFamily="Segoe UI Light" FontSize="22" BorderThickness="0,0,0.5,0" Margin="0,48,0,0"/>
+        <Button Content="Chỉ số" HorizontalAlignment="Left" VerticalAlignment="Top" Width="190" Height="44" Background="#FF666666" BorderBrush="White" Foreground="White" FontFamily="Segoe UI Light" FontSize="22" BorderThickness="0,0,0.5,0" Margin="0,93,0,0"/>
+        <TextBlock x:Name="choncongcu" HorizontalAlignment="Left" Height="47" Margin="218,208,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="494" FontFamily="Segoe UI Light"><Run Language="vi-vn" Text="Chọn công cụ để thực hiện tính toán " Foreground="#FF429BF3" FontSize="30"/></TextBlock>
+        <Rectangle Fill="#FF429BF3" HorizontalAlignment="Left" Height="3" Margin="190,0,0,0" Stroke="#FF429BF3" VerticalAlignment="Top" Width="572"/>
+        <TextBlock x:Name="textnthh" HorizontalAlignment="Left" Margin="218,25,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Height="61" Width="519" Foreground="#FF666666" FontFamily="Segoe UI Light" FontSize="22" Visibility="Hidden"><Run Language="vi-vn" Text="Nhập vào kí hiệu hoá học của nguyên tố cần tra nguyên tử khối: "/></TextBlock>
+        <TextBox x:Name="khhh" HorizontalAlignment="Left" Height="33" Margin="218,91,0,0" TextWrapping="Wrap" Text="VD: Fe" VerticalAlignment="Top" Width="301" Background="White" BorderBrush="#FF429BF3" Foreground="#FF429BF3" FontFamily="Segoe UI Light" FontSize="20" BorderThickness="2" Visibility="Hidden"/>
+        <Button x:Name="tracuu" Content="Tra cứu" HorizontalAlignment="Left" Height="33" Margin="218,129,0,0" VerticalAlignment="Top" Width="90" Background="#FF666666" BorderBrush="#FF666666" Foreground="White" FontFamily="Segoe UI Light" FontSize="15" Click="tracuu_Click" Visibility="Hidden"/>
+        <TextBlock x:Name="text2nthh" HorizontalAlignment="Left" Height="36" Margin="218,167,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="157" FontSize="22" FontFamily="Segoe UI Light" Text="Kết quả:" Foreground="#FF666666" Visibility="Hidden"/>
+        <TextBox x:Name="ketquakhhh" HorizontalAlignment="Left" Height="33" Margin="218,203,0,0" TextWrapping="Wrap" Text="VD: 56" VerticalAlignment="Top" Width="301" Background="White" BorderBrush="#FF429BF3" Foreground="#FF429BF3" FontFamily="Segoe UI Light" FontSize="20" BorderThickness="2" Visibility="Hidden"/>
+
+    </Grid>
+</Window>
